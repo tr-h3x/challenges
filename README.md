@@ -1,0 +1,2 @@
+# challenges
+Codecademy - BE - CODE CHALLENGES: INTERMEDIATE JAVASCRIPT
